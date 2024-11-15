@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/streamline-news/static/css/main.3f380e09.css",
-    "main.js": "/streamline-news/static/js/main.1abe7dc7.js",
+    "main.js": "/streamline-news/static/js/main.0103ca1b.js",
     "static/js/453.eda6dd29.chunk.js": "/streamline-news/static/js/453.eda6dd29.chunk.js",
     "static/media/loading.gif": "/streamline-news/static/media/loading.42aaa181adb3af3bef08.gif",
     "index.html": "/streamline-news/index.html",
     "main.3f380e09.css.map": "/streamline-news/static/css/main.3f380e09.css.map",
-    "main.1abe7dc7.js.map": "/streamline-news/static/js/main.1abe7dc7.js.map",
+    "main.0103ca1b.js.map": "/streamline-news/static/js/main.0103ca1b.js.map",
     "453.eda6dd29.chunk.js.map": "/streamline-news/static/js/453.eda6dd29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f380e09.css",
-    "static/js/main.1abe7dc7.js"
+    "static/js/main.0103ca1b.js"
   ]
 }
